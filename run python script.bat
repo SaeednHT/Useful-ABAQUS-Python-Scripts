@@ -1,0 +1,1 @@
+abaqus cae noGUI=file_name.py
