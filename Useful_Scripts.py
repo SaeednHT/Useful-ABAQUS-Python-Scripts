@@ -111,5 +111,5 @@ def check_NaN(name):
     return NaN_output
 
 # **********************************************************************************************
-# Shut down windows
+# Shut down Windows
 os.system('shutdown -s')
